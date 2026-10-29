@@ -1,0 +1,8 @@
+{
+  "name": "Portfolio (SAHIL)",
+  "description": "Modern, high-performance portfolio website for a Computer Science Engineering student featuring full-stack projects, DSA accomplishments, technical skills, and experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
